@@ -24,7 +24,9 @@ social: false # includes social icons at the bottom of the page
 
 Dr Ayona Barthakur has worked in the private health care sector, at Guwahati city for more than 20 years. She is heading the department of OBGyn at Ayursundra Superspecialty Hospital, Garchuk, Guwahati, a 270 bedded multispecialty Hospital since its inception. The Department includes a High Risk Pregnancy Unit and IVF Centre, in addition to 24X7 Emergency obstetric and gynaecological services.
 
-Her Motto “ I am a very firm believer in preventive medicine. Which is why I counsel my patients regularly on the need for contraception, need to take extra precautions to prevent complications in High Risk pregnancies and specially the need for regular cancer screening which includes pap smears and Mammography.”
+Her Motto  
+
+> I am a very firm believer in preventive medicine. Which is why I counsel my patients regularly on the need for contraception, need to take extra precautions to prevent complications in High Risk pregnancies and specially the need for regular cancer screening which includes pap smears and Mammography.
 
 ## Her Experience: 
 
@@ -39,15 +41,15 @@ Pregnancy, Infertility and Laparoscopic surgery.
 
 ## Educational Activities
 
-• Invited Faculty/ Speaker at national conferences - Fogsi Satellite conference Bhuvaneswar
+* Invited Faculty/ Speaker at national conferences - Fogsi Satellite conference Bhuvaneswar
 2012 ( Metabolic Syndrome), AICOG (All India Congress of Obst &amp; Gynae).
 Chennai,2015( Obesity and midlife), AICOG Varanasi 2012 ( Oligohydramnios), AICOG Agra
 2016 C G Saraiya CME ( Routes of Hysterectomy), AICOG Mumbai 2013.
-• Best Poster presentation at AICOG , Guwahati 2010 ( Mullerian Anomalies-Case Study of 5
+* Best Poster presentation at AICOG , Guwahati 2010 ( Mullerian Anomalies-Case Study of 5
 cases).
-• Numerous presentations as faculty at regional and zonal conferences-Yuva Fogsi Malda
+* Numerous presentations as faculty at regional and zonal conferences-Yuva Fogsi Malda
 2011, Yuva Fogsi Kalyani 2010,Neogscon Dibrugarh 2014, Neogscon Guwahati 2013, Neogscon Gangtok2015, Neogscon Shillong 2016, East Zone Yuva FOGSI Shillong 2018.
-• Contributed a chapter on Medical Disorders of Pregnancy- QUIZ under Fogsi. ( in publication).
+* Contributed a chapter on Medical Disorders of Pregnancy- QUIZ under Fogsi. ( in publication).
 
 ## Extracurricular Activities: 
 
