@@ -21,3 +21,5 @@ Besides the specialised services listed on [the services page]({% link _pages/se
 * Endometriosis
 * Laparoscopic Surgery
 * Contrraceptive Counselling
+* Screening for cervical screening
+* Treatment for vaginal discharge and infection
