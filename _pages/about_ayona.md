@@ -9,7 +9,7 @@ nav_order : 3
 
 profile:
   align: right
-  image: ayona_profile_pic.jpeg
+  image: Newprofilepic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Some extra information</p>
@@ -32,12 +32,12 @@ Her Motto
 
 She received her MD degree from Gauhati Medical College, Guwahati in 1995 and also completed
 her DNB degree the same year ( a post graduate degree awarded by NBE, under the Ministry of
-Health and family welfare, GOI). She then completed a 3year senior residency programme from Lady Hardinge Medical College, New Delhi, probably the busiest and biggest Gynae department in the country. Since 2000, she has been practicing in Guwahati, taking care of pregnant women and delivering thousands of babies, treating other gynaecological problems including infertility and tumours, both medically and surgically. She is specially trained in laparoscopic surgery and IVF.
+Health and family welfare, GOI). She then completed a 3year senior residency programme from Lady Hardinge Medical College, New Delhi, probably the busiest and biggest Gynae department in the country. Since 2000, she has been practicing in Guwahati, taking care of pregnant women and delivering thousands of babies, treating other gynaecological problems including infertility and tumours, both medically and surgically. She is specially trained in laparoscopic surgery and IVF. From Aug 2022 to Aug 2024, she worked in Medcare Medical Center, Dubai as a Specialist, ObGyn.
 
 ## Her team: 
 
 She is supported by a dedicated team of gynaecologists trained in taking care of High Risk
-Pregnancy, Infertility and Laparoscopic surgery.
+Pregnancy, Infertility and Laparoscopic surgery.111
 
 ## Educational Activities
 
