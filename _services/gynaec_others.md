@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Services in Gynae
+title: Gynaecology Services
 description: with background image
 img: assets/img/12.jpg
 importance: 2
@@ -11,8 +11,8 @@ related_publications: false
 Besides the specialised services listed on [the services page]({% link _pages/services.md %}), Dr. Ayona and her team offer the following gynaecological services :
 
 * Well Woman Annual Check Up
-* Abnormal Uterine Bleeding
-* Infertility
+* Treatment of Abnormal Uterine Bleeding
+* Infertility Treatment
 * Cancer prevention in women
 * Contraception
 * Benign Breast Disease
@@ -20,6 +20,6 @@ Besides the specialised services listed on [the services page]({% link _pages/se
 * Menopause
 * Endometriosis
 * Laparoscopic Surgery
-* Contrraceptive Counselling
-* Screening for cervical screening
+* Contraceptive Counselling
+* Screening for Cervical Cancer
 * Treatment for vaginal discharge and infection
