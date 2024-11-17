@@ -7,7 +7,7 @@ subtitle: MD, DNB (other information...)
 
 profile:
   align: right
-  image: ayona_profile_pic.jpeg
+  image: Newprofilepic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   
